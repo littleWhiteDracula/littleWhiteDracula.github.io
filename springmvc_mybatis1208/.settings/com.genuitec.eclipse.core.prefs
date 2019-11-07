@@ -1,0 +1,3 @@
+eclipse.preferences.version=1
+validator.Checked=WebRoot/WEB-INF/jsp/user/userList.jsp,WebRoot/WEB-INF/jsp/success.jsp,WebRoot/WEB-INF/jsp/items/itemsList.jsp,WebRoot/WEB-INF/jsp/items/editItems.jsp
+validator.Unchecked=
